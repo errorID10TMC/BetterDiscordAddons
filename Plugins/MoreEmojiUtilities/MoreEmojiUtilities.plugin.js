@@ -3,8 +3,8 @@
  * @version 0.1.0
  * @authorLink https://github.com/errorID10TMC
  * @website https://github.com/errorID10TMC/BetterDiscordAddons/tree/main/Plugins/MoreEmojiUtilities
- * @source https://github.com/errorID10TMC/BetterDiscordAddons/tree/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js
- * @updateUrl https://github.com/errorID10TMC/BetterDiscordAddons/tree/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js
+ * @source https://raw.githubusercontent.com/errorID10TMC/BetterDiscordAddons/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/errorID10TMC/BetterDiscordAddons/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -48,7 +48,7 @@ module.exports = (() => {
       github:
         "https://github.com/errorID10TMC/BetterDiscordAddons/tree/main/Plugins/MoreEmojiUtilities",
       github_raw:
-        "https://github.com/errorID10TMC/BetterDiscordAddons/tree/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js",
+        "https://raw.githubusercontent.com/errorID10TMC/BetterDiscordAddons/main/Plugins/MoreEmojiUtilities/MoreEmojiUtilities.plugin.js",
     },
     changelog: [
       {
